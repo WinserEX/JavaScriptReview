@@ -1,0 +1,22 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "Javascript Intermedio",
+  "main": "arrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinserEX/JavaScriptReview.git"
+  },
+  "keywords": [
+    "Js"
+  ],
+  "author": "Winser Espinal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WinserEX/JavaScriptReview/issues"
+  },
+  "homepage": "https://github.com/WinserEX/JavaScriptReview#readme"
+}
